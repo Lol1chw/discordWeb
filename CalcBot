@@ -69,3 +69,4 @@ const calc = new AreaCalculator( [
 ])
 
 console.log(calc.sum())
+3213231321321321313
